@@ -6,9 +6,11 @@ title = "Home"
 layout = "single"
 +++
 
-[<img src="/static/images/headshot.jpeg" style="max-width:10%;min-width:30px;border-radius:50%;float:right;" alt="Github repo" />](https://github.com/yihui/hugo-xmin)
+[<img src="/static/images/headshot.jpeg" style="max-width:11%;min-width:30px;border-radius:50%;float:right;" alt="Github repo" />](https://github.com/yihui/hugo-xmin)
 
 # Chen Wang
+
+Contact: wang116@llnl.gov
 
 I am currently a [Fernbach Postdoctoral Fellow](https://computing.llnl.gov/about/people-highlights/chen-wang) at the Center for Applied Scientific Computing (CASC) at Lawrence Livermore National Laboratory. I completed my Ph.D. in Computer Science at the University of Illinois Urbana-Champaign, under the guidance of [Prof. Marc Snir](https://snir.cs.illinois.edu). You can find my CV [here](/static/cv/cv-chen-wang-2024-12-16.pdf).
 

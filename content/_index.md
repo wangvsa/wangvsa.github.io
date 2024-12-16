@@ -34,11 +34,10 @@ Due to time constraints, I have merged most of Pilgrim’s features into Recorde
 - **MPI Standard Revision:** While working on the VerifyIO project, I uncovered several consistency issues in production-level I/O libraries. Further investigations revealed that these issues stemmed from the strict specifications of the MPI Standard, particularly regarding the `MPI_File_sync` call. To address these limitations, I am leading an effort within the MPI-I/O working group to revise the MPI Standard, aligning it more closely with the needs of modern I/O libraries and next-generation storage systems.
 
 
-## Publications:
-
-**Peer reviewed papers and journals**
-
 ---
+
+## Publications:
+Peer-reviewed papers and journal articles are listed below. A complete list of my publications is available in my [CV](/static/cv/cv-chen-wang-2024-12-16.pdf).
 
 **2024:**
 - Hariharan Devarajan, Ian Lumsden, **Chen Wang**, Konstantia Georgouli, Jae-Seung Yeom, and Michela Taufer. DLDM: Locality-aware Data Management for accelerating Deep Learning Training. IEEE/SBC 36th International Symposium on Computer Architecture and High Performance Computing. SBAC-PAD. 2024.
@@ -74,9 +73,9 @@ Due to time constraints, I have merged most of Pilgrim’s features into Recorde
 - **Chen Wang**, Ce Yu, Jizhou Sun, and Xiangfei Meng. "DPX10: An efficient X10 framework for dynamic programming applications", In 2015 44th International Conference on Parallel Processing (ICPP), pp. 869-878. IEEE, 2015.
 
 
-## Community Service:
-
 ---
+
+## Community Service:
 
 - Program Chair: ESSA'25
 - Publicity Chair: SSDBM'25, ESSA'2025

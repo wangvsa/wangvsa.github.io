@@ -6,11 +6,11 @@ title = "Home"
 layout = "single"
 +++
 
-[<img src="/images/headshot.jpeg" style="max-width:10%;min-width:30px;border-radius:50%;float:right;" alt="Github repo" />](https://github.com/yihui/hugo-xmin)
+[<img src="/static/images/headshot.jpeg" style="max-width:10%;min-width:30px;border-radius:50%;float:right;" alt="Github repo" />](https://github.com/yihui/hugo-xmin)
 
 # Chen Wang
 
-I am currently a [Fernbach Postdoctoral Fellow](https://computing.llnl.gov/about/people-highlights/chen-wang) at the Center for Applied Scientific Computing (CASC) at Lawrence Livermore National Laboratory. I completed my Ph.D. in Computer Science at the University of Illinois Urbana-Champaign, under the guidance of [Prof. Marc Snir](https://snir.cs.illinois.edu). You can find my CV [here](/cv/cv-chen-wang-2024-12-16.pdf).
+I am currently a [Fernbach Postdoctoral Fellow](https://computing.llnl.gov/about/people-highlights/chen-wang) at the Center for Applied Scientific Computing (CASC) at Lawrence Livermore National Laboratory. I completed my Ph.D. in Computer Science at the University of Illinois Urbana-Champaign, under the guidance of [Prof. Marc Snir](https://snir.cs.illinois.edu). You can find my CV [here](/static/cv/cv-chen-wang-2024-12-16.pdf).
 
 My research interests include high-performance computing, high-performance storage systems, parallel I/O, and tracing and analysis. During my Ph.D. and postdoctoral research, I have extensively studied performance issues related to POSIX consistency and explored the design of next-generation high-performance storage systems. Many of the projects I have been involved in are centered around these areas.
 <!--

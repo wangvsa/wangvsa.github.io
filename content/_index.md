@@ -72,3 +72,16 @@ Due to time constraints, I have merged most of Pilgrim’s features into Recorde
 
 **2015**:
 - **Chen Wang**, Ce Yu, Jizhou Sun, and Xiangfei Meng. "DPX10: An efficient X10 framework for dynamic programming applications", In 2015 44th International Conference on Parallel Processing (ICPP), pp. 869-878. IEEE, 2015.
+
+
+## Community Service:
+
+---
+
+- Program Chair: ESSA'25
+- Publicity Chair: SSDBM'25, ESSA'2025
+- Workshop Review Committee: ISC'25
+- Program Committee: IPDPS'25, ICS'25, SC'24, CLUSTER'24, CLUSTER'25, PERMAVOST'24, ESSA'23, PDSW'23, CHEOPS'23, REX-IO'23
+- Journal Reviewer Board: IEEE TPDS
+
+

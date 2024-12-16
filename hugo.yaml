@@ -1,0 +1,44 @@
+baseurl: "https://wangvsa.github.io/"  # please update this to your actual URL
+languageCode: "en-us"
+title: "Chen Wang"
+theme: "hugo-xmin"
+googleAnalytics: ""
+disqusShortname: ""
+ignoreFiles: ["\\.Rmd$", "\\.Rmarkdown$", "_cache$"]
+footnotereturnlinkcontents: "↩"
+
+permalinks:
+  note: "/note/:year/:month/:day/:slug/"
+  blog: "/blog/:year/:month/:day/:slug/"
+
+menu:
+  main:
+    - name: Home
+      url: ""
+      weight: 1
+    #- name: Blog
+    #  url: "blog/"
+    #  weight: 2
+
+params:
+  description: "A website built through Hugo and blogdown."
+  footer: "&copy; Chen Wang. 2024. | [Github](https://github.com/wangvsa) | [Linkedin](https://www.linkedin.com/in/chenw5/) | [Google Scholar](https://scholar.google.com/citations?user=BtN6CZgAAAAJ&hl=en)"
+
+markup:
+  highlight:
+    codeFences: false
+  goldmark:
+    renderer:
+      unsafe: true
+    extensions:
+      passthrough:
+        enable: true
+        delimiters:
+          block:
+          - - \[
+            - \]
+          - - $$
+            - $$
+          inline:
+          - - \(
+            - \)

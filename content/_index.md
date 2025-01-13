@@ -6,7 +6,7 @@ title = "Home"
 layout = "single"
 +++
 
-[<img src="/static/images/headshot.jpeg" style="max-width:11%;min-width:30px;border-radius:50%;float:right;" alt="Github repo" />](https://github.com/yihui/hugo-xmin)
+[<img src="/static/images/headshot.jpeg" style="max-width:11%;min-width:30px;border-radius:50%;float:right;" alt="Github repo" />](https://wangchen.io)
 
 # Chen Wang
 

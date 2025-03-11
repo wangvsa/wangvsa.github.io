@@ -40,7 +40,7 @@ Some of my ongoing projects:
 Peer-reviewed papers and journal articles are listed below. A complete list of my publications is available in my [CV](/static/cv/cv-chen-wang-2024-12-16.pdf).
 
 **2024:**
-- Hariharan Devarajan, Ian Lumsden, **Chen Wang**, Konstantia Georgouli, Jae-Seung Yeom, and Michela Taufer. DLDM: Locality-aware Data Management for accelerating Deep Learning Training. IEEE/SBC 36th International Symposium on Computer Architecture and High Performance Computing. SBAC-PAD. 2024.
+- Hariharan Devarajan, Ian Lumsden, **Chen Wang**, Konstantia Georgouli, Jae-Seung Yeom, and Michela Taufer. DYAD: Locality-aware Data Management for accelerating Deep Learning Training. IEEE/SBC 36th International Symposium on Computer Architecture and High Performance Computing. SBAC-PAD. 2024.
 - **Chen Wang**, Houjun Tang, Jean Luca Bez and Suren Byna. Object-Centric Data Management in HPC Workflows - A Case Study. 4th Workshop on Re-envisioning Extreme-Scale I/O for Emerging Hybrid HPC Workloads. 2024.
 - Olga Kogiou, Hariharan Devarajan, **Chen Wang**, Weikuan Yu and Kathryn Mohror. Understanding Adaptable Storage for Diverse Workloads. 4th Workshop on Re-envisioning Extreme-Scale I/O for Emerging Hybrid HPC Workloads. 2024.
 - **Chen Wang**, Kathryn Mohror, and Marc Snir. "Formal Definitions and Performance Comparison of Consistency Models for Parallel File Systems", IEEE TPDS. 2024.

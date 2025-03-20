@@ -16,7 +16,7 @@ I am looking for self-motivated students with a strong background in Computer Sc
 - Parallel I/O
 
 At a minimum, candidates must meet NTU’s Ph.D. admission criteria. Please refer to the official NTU [admission guide](https://www.ntu.edu.sg/admissions/graduate/radmissionguide) for details.
-I review every CV I receive; however, *only* shortlisted candidates will be contacted for further discussion.
+<!--I review every CV I receive; however, *only* shortlisted candidates will be contacted for further discussion.-->
 
 **Opportunities for NTU Undergraduates**
 

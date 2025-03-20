@@ -10,7 +10,7 @@ I currently have two fully funded Ph.D. scholarships available for the January a
 I am looking for self-motivated students with a strong background in Computer Science or related fields, who are passionate about conducting cutting-edge research. My research areas include, but are not limited to:
 
 - High-Performance Computing (HPC)
-- High-Performance Storage Systems & Parallel File Systems
+- Distributed Storage Systems & Parallel File Systems
 - Systems for AI/LLMs
 - Performance Modeling & Analysis
 - Parallel I/O

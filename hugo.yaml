@@ -16,6 +16,16 @@ menu:
     - name: Home
       url: ""
       weight: 1
+    - name: Publications
+      url: "publications"
+      weight: 1
+    - name: Projects
+      url: "projects"
+      weight: 2
+    - name: Hiring
+      url: "hiring"
+      weight: 3
+    #- name: Blog
     #- name: Blog
     #  url: "blog/"
     #  weight: 2

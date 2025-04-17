@@ -28,10 +28,12 @@ I will be joining Nanyang Technological University ([NTU](https://www.ntu.edu.sg
 ---
 
 ### News!
+- Apr 2025 – Two short papers accepted by SSDBM'25! See you in Columbus, OH.
+- Apr 2025 – Recognized as a 2024 Outstanding Reviewer for the Future Generation Computer Systems (FGCS) Journal.
 - Mar 2025 – Awarded a **Director’s Discretionary Allocation**, granting 3,000 node hours on two GPU-based supercomputers at Argonne National Lab.
 - Feb 2025 – Our **[Dagstuhl Seminar](https://www.dagstuhl.de/en/seminars/dagstuhl-seminars)** proposal has been accepted! Titled *Storage Systems and I/O for Emerging Workloads on HPC Systems*, the seminar will take place at Schloss Dagstuhl in Wadern, Germany, from Jan 11 to 16, 2026. More details [here](https://www.dagstuhl.de/26032).
 - Feb 2025 – Our work on scaling E3SM across multiple flagship supercomputers has been shortlisted for the **CCGRID’25 [SCALE Challenge](https://site.uit.no/ccgrid2025/scale-challenge/)**. We will present in Tromso, Norway and compete for the grand prize.
-- Jan 2025 – Our paper on **verifying parallel I/O semantics adherence** has been accepted at IPDPS’25! The project (named VerifyIO) is publicly available [here](https://github.com/wangvsa/VerifyIO), along with reproducibility documentation. We will present in Milan, Italy. Additionally, I will co-organize the **[ESSA’25 workshop](https://sites.google.com/view/essa-2025/)** at IPDPS'25.
+- Jan 2025 – Our paper on **verifying parallel I/O semantics adherence** has been accepted at IPDPS’25! The project (named VerifyIO) is publicly available [here](https://github.com/wangvsa/VerifyIO), along with reproducibility documentation. I will present in Milan, Italy. Additionally, I will co-organize the **[ESSA’25 workshop](https://sites.google.com/view/essa-2025/)** at IPDPS'25. See you there!
 
 ---
 

@@ -13,7 +13,7 @@ layout = "single"
 <!--Contact: wang116@llnl.gov-->
 
 I am currently a [Fernbach Postdoctoral Fellow](https://computing.llnl.gov/about/people-highlights/chen-wang) at the Center for Applied Scientific Computing ([CASC](https://computing.llnl.gov/casc)) at Lawrence Livermore National Laboratory, where I am mentored by [Dr. Kathryn Mohror](https://people.llnl.gov/mohror1).
-I completed my Ph.D. in Computer Science at the University of Illinois Urbana-Champaign, under the guidance of [Prof. Marc Snir](https://snir.cs.illinois.edu). <!--You can find my CV [here](/static/cv/cv-chen-wang-2024-12-16.pdf). -->
+I completed my Ph.D. in Computer Science at the University of Illinois Urbana-Champaign, under the guidance of [Prof. Marc Snir](https://snir.cs.illinois.edu).
 
 My research interests include high-performance computing, storage system, system for AI/LLM, parallel file system, perfomrance analysis, etc. During my Ph.D. and postdoctoral research, I have extensively studied performance issues related to POSIX consistency and explored the design of next-generation high-performance storage systems. Many of the [projects](/projects) I have been involved in are centered around these areas.
 <!--

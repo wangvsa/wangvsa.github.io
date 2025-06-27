@@ -4,7 +4,13 @@ layout = "single"
 +++
 
 ## Publications:
-Some of the peer-reviewed papers are listed below. A complete list of my publications is available in my [CV](/static/cv/cv-chen-wang-2024-12-16.pdf).
+Some of the recent peer-reviewed papers are listed below. [Google Scholar](https://scholar.google.com/citations?user=BtN6CZgAAAAJ&hl=en) or [ORCID](https://orcid.org/my-orcid?orcid=0000-0001-9297-0415) may have a more comprehensive list.
+
+**2025:**
+
+- **Chen Wang**, Zhaobin Zhu, Kathryn Mohror, Sarah Neuwirth, Marc Snir. VerifyIO: Verifying Adherence to Parallel I/O Consistency Semantics. IPDPS. 2025.
+-  Zhaobin Zhu, **Chen Wang**, Sarah Neuwirth. Advancing HPC Performance Modeling with an Interactive, Automated and Tool-Agnostic ML-Driven Workflow. SSDBM. 2025.
+- Sarah Neuwirth, Hariharan Devarajan, **Chen Wang**, Jay Lofstead. XIO: Toward eXplainable I/O for HPC Systems. SSDBM, 2025.
 
 **2024:**
 - Hariharan Devarajan, Ian Lumsden, **Chen Wang**, Konstantia Georgouli, Jae-Seung Yeom, and Michela Taufer. DYAD: Locality-aware Data Management for accelerating Deep Learning Training. IEEE/SBC 36th International Symposium on Computer Architecture and High Performance Computing. SBAC-PAD. 2024.

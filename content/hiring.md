@@ -5,8 +5,7 @@ layout = "single"
 
 ## Hiring
 
-I will be joining Nanyang Technological University ([NTU](https://www.ntu.edu.sg/)) in Fall 2025 as an Assistant Professor in the College of Computing and Data Science ([CCDS](https://www.ntu.edu.sg/computing)).
-I currently have two fully funded Ph.D. scholarships available for the January and August 2026 intakes.
+I have multiple fully funded Ph.D. scholarships available for the January and August 2026 intakes.
 I am looking for self-motivated students with a strong background in Computer Science or related fields, who are passionate about conducting cutting-edge research. My research areas include, but are not limited to:
 
 - High-Performance Computing (HPC)

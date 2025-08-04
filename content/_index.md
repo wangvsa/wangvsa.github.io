@@ -10,21 +10,17 @@ layout = "single"
 
 ## Chen Wang
 
-<!--Contact: wang116@llnl.gov-->
+I am an Assistant Professor in the College of Computing and Data Science ([CCDS](https://www.ntu.edu.sg/computing)) at Nanyang Technological University ([NTU](https://www.ntu.edu.sg/)).
+Before joining NTU, I was the [Fernbach Postdoctoral Fellow](https://computing.llnl.gov/about/people-highlights/chen-wang) at the Center for Applied Scientific Computing ([CASC](https://computing.llnl.gov/casc)) at Lawrence Livermore National Laboratory, where I worked with [Dr. Kathryn Mohror](https://people.llnl.gov/mohror1).
+I completed my Ph.D. in Computer Science at the University of Illinois Urbana-Champaign, under the guidance of [Prof. Marc Snir](https://snir.cs.illinois.edu). Fun fact: I have an [Erdős number](http://wwwp.oakland.edu/enp/) of 3 through Marc :).
 
-I am currently a [Fernbach Postdoctoral Fellow](https://computing.llnl.gov/about/people-highlights/chen-wang) at the Center for Applied Scientific Computing ([CASC](https://computing.llnl.gov/casc)) at Lawrence Livermore National Laboratory, where I am mentored by [Dr. Kathryn Mohror](https://people.llnl.gov/mohror1).
-I completed my Ph.D. in Computer Science at the University of Illinois Urbana-Champaign, under the guidance of [Prof. Marc Snir](https://snir.cs.illinois.edu).
-
-My research interests include high-performance computing, storage system, system for AI/LLM, parallel file system, perfomrance analysis, etc. During my Ph.D. and postdoctoral research, I have extensively studied performance issues related to POSIX consistency and explored the design of next-generation high-performance storage systems. Many of the [projects](/projects) I have been involved in are centered around these areas.
-<!--
-If you want to read more about this issue, please see this post.
--->
+My research interests include high-performance computing, storage system, system for AI/LLM, parallel file system, performance analysis, etc. During my Ph.D. and postdoctoral research, I have extensively studied performance issues related to POSIX consistency and explored the design of next-generation high-performance storage systems. Many of the [projects](/projects) I have been involved in are centered around these areas.
 
 ---
 
 ### Hiring
 
-I will be joining Nanyang Technological University ([NTU](https://www.ntu.edu.sg/)) in Fall 2025 as an Assistant Professor in the College of Computing and Data Science ([CCDS](https://www.ntu.edu.sg/computing)). I currently have two fully funded Ph.D. scholarships available for the January and August 2026 intakes. If you're interested, please check out this [page](/hiring) for more details.
+I am actively looking for self-motivated students. If you're interested in working with me, please check out this [page](/hiring) for more details.
 
 ---
 
@@ -39,10 +35,10 @@ I will be joining Nanyang Technological University ([NTU](https://www.ntu.edu.sg
 ---
 
 ## Service (recent):
-
+- General Chair: CLUSTER'28 (will host it in Singapore!)
 - Program Chair: ESSA'25
 - Publicity Chair: SSDBM'25, ESSA'24
 - Workshop Review Committee: ISC'25
-- Program Committee: IPDPS'25, ICS'25, SC'24, CLUSTER'25, CLUSTER'24, PERMAVOST'24, ESSA'23, PDSW'23, CHEOPS'23, REX-IO'23
+- Program Committee: HPC/SCAsia'25, IPDPS'25, ICS'25, SC'24, CLUSTER'25, CLUSTER'24, PERMAVOST'24, ESSA'23, PDSW'23, CHEOPS'23, REX-IO'25, REX-IO'23
 - Journal Reviewer Board: IEEE TPDS 2024-present
 

@@ -18,6 +18,12 @@ My research interests include high-performance computing, storage system, system
 
 ---
 
+### Teaching
+
+NTU Undergrads: We’ve just restarted the Parallel Computing course (SC4005). Consider taking it if you’re interested in high-performance computing, supercomputers, or large-scale GPU programming.
+In addition, I am developing a dedicated GPU-oriented course (4000-level MPE), which I hope to offer starting in 2026.
+
+
 ### Hiring
 
 I am actively looking for self-motivated students. If you're interested in working with me, please check out this [page](/hiring) for more details.

@@ -32,6 +32,9 @@ I am actively looking for self-motivated students. If you're interested in worki
 ---
 
 ### News!
+- Sep 2025 - I will give a keynote  talk at the [2026 HPC Users Symposium](https://www.nscc.sg/wp-content/uploads/2025/09/2025-HPC-Users-Symposium-Programme.pdf) orgnized by NSCC Singapore. Registration is free. Venue: Sep. 25, 2025, Orchard Hotel Singapore.
+- Aug 2025 - Our SmartIO paper is accpeted by [PDSW'25](https://www.pdsw.org) assoicated with SC.
+- Aug 2025 - Our [PDC](https://github.com/hpc-io/pdc) work is accpeted by [SBAC-PAD](https://sbac-pad2025.ufms.br).
 - Apr 2025 – Two short papers accepted by SSDBM'25! See you in Columbus, OH.
 - Apr 2025 – Recognized as a 2024 Outstanding Reviewer for the Future Generation Computer Systems (FGCS) Journal.
 - Mar 2025 – Awarded a **Director’s Discretionary Allocation**, granting 3,000 node hours on two GPU-based supercomputers at Argonne National Lab.

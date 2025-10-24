@@ -9,8 +9,11 @@ Some of the recent peer-reviewed papers are listed below. [Google Scholar](https
 **2025:**
 
 - **Chen Wang**, Zhaobin Zhu, Kathryn Mohror, Sarah Neuwirth, Marc Snir. VerifyIO: Verifying Adherence to Parallel I/O Consistency Semantics. IPDPS. 2025.
+- Hammad Ather, **Chen Wang**, Hariharan Devarajan, Hank Childs, Kathryn Mohror. SmartIO: A Lightweight End-to-End Workflow for Runtime I/O Optimization of HPC Systems. PDSW. 2025.
+- Jean Luca Bez, Houjun Tang, **Chen Wang**, and Suren Byna. Data Without Borders: Seamless Cross-Facility Data Movement using Object Data Management Runtime. SBAC-PAD. 2025.
+- Dali Wang, **Chen Wang**, Qinglei Cao, Jayesh Krishna, Danqing Wu, Weijian Zheng, Peter Schwartz, Fengming Yuan, Kathryn Mohror, and Peter Thornton. Scaling Ultrahigh-Resolution E3SM Land Model for Leadership-Class Supercomputers.'' CCGRID Scalable Computing Challenge Finalist. 2025.
 -  Zhaobin Zhu, **Chen Wang**, Sarah Neuwirth. Advancing HPC Performance Modeling with an Interactive, Automated and Tool-Agnostic ML-Driven Workflow. SSDBM. 2025.
-- Sarah Neuwirth, Hariharan Devarajan, **Chen Wang**, Jay Lofstead. XIO: Toward eXplainable I/O for HPC Systems. SSDBM, 2025.
+- Sarah Neuwirth, Hariharan Devarajan, **Chen Wang**, Jay Lofstead. XIO: Toward eXplainable I/O for HPC Systems. SSDBM. 2025.
 
 **2024:**
 - Hariharan Devarajan, Ian Lumsden, **Chen Wang**, Konstantia Georgouli, Jae-Seung Yeom, and Michela Taufer. DYAD: Locality-aware Data Management for accelerating Deep Learning Training. IEEE/SBC 36th International Symposium on Computer Architecture and High Performance Computing. SBAC-PAD. 2024.

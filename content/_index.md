@@ -20,8 +20,9 @@ My research interests include high-performance computing, storage system, system
 
 ### Teaching
 
-NTU Undergrads: We’ve just restarted the Parallel Computing course (SC4050). Consider taking it if you’re interested in high-performance computing, supercomputers, or large-scale GPU programming.
-In addition, I am developing a dedicated GPU-oriented course (4000-level MPE), which I hope to offer starting in 2026.
+NTU Undergrads: We’ve just relaunched the Parallel Computing course (SC4050). If you’re interested in high-performance computing (such as OpenMP, MPI, parallel file systems), consider enrolling.
+
+In addition, I will be offering a new GPU-focused course (SC4064) starting in Spring 2026. This course will cover fundamental GPU architecture and programming concepts, along with emerging topics such as sparse tensor cores, container-based AI deployment, heterogeneous computing, and more.
 
 ---
 
@@ -32,6 +33,7 @@ I am actively looking for self-motivated students. If you're interested in worki
 ---
 
 ### News!
+- Nov 2025 - Our PDC paper "Data Management in the Continuum: Cross-facility Object-based Data Transfers" received the Recognition Award at SBAC-PAD 2025! Find more about PDC [here](https://pdc.readthedocs.io).
 - Sep 2025 - I will give a keynote  talk at the [2026 HPC Users Symposium](https://www.nscc.sg/wp-content/uploads/2025/09/2025-HPC-Users-Symposium-Programme.pdf) orgnized by NSCC Singapore. Registration is free. Venue: Sep. 25, 2025, Orchard Hotel Singapore.
 - Aug 2025 - Our SmartIO paper is accpeted by [PDSW'25](https://www.pdsw.org) assoicated with SC.
 - Aug 2025 - Our [PDC](https://github.com/hpc-io/pdc) work is accpeted by [SBAC-PAD](https://sbac-pad2025.ufms.br).

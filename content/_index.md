@@ -33,7 +33,8 @@ I am actively looking for self-motivated students. If you're interested in worki
 ---
 
 ### News!
-- Dec 2025 - The UnifyFS and DYAD tutorial (Jan. 26, Osaka, Japan. SCA/HPCAsia'26 web is [alive](https://wangchen.io/unifyfs-dyad-tutorial). Looking forward to seeing you there!
+- Dec 2025 - I will be chairing the [ESSA'26 Workshop](https://sites.google.com/view/essa-2026/home) (Workshop on Extreme-Scale Storage and Analysis) held in conjunction with IPDPS in New Orleans, USA, US. The submission site is now open; please consider submitting your work. CFP is available [here](https://sites.google.com/view/essa-2026/cfp).
+- Dec 2025 - The UnifyFS and DYAD tutorial (Jan. 26, Osaka, Japan. SCA/HPCAsia'26) web is [alive](https://wangchen.io/unifyfs-dyad-tutorial). Looking forward to seeing you there!
 - Nov 2025 - Our PDC paper "Data Management in the Continuum: Cross-facility Object-based Data Transfers" received the Recognition Award at SBAC-PAD 2025! Find more about PDC [here](https://pdc.readthedocs.io).
 - Sep 2025 - I will give a keynote  talk at the [2026 HPC Users Symposium](https://www.nscc.sg/wp-content/uploads/2025/09/2025-HPC-Users-Symposium-Programme.pdf) orgnized by NSCC Singapore. Registration is free. Venue: Sep. 25, 2025, Orchard Hotel Singapore.
 - Aug 2025 - Our SmartIO paper is accpeted by [PDSW'25](https://www.pdsw.org) assoicated with SC.

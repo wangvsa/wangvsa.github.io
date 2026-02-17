@@ -49,7 +49,9 @@ I am actively looking for self-motivated students. If you're interested in worki
 ---
 
 ## Service (recent):
-- General Chair: CLUSTER'28 (will host it in Singapore!)
+- General Chair: 
+    - CLUSTER'28 (will host it in Singapore!)
+    - ESSA'26
 - Program Chair: ESSA'25
 - Publicity Chair: SSDBM'25, ESSA'24
 - Workshop Review Committee: ISC'25

@@ -55,5 +55,9 @@ I am actively looking for self-motivated students. If you're interested in worki
 - Program Chair: ESSA'25
 - Publicity Chair: SSDBM'25, ESSA'24
 - Workshop Review Committee: ISC'25
-- Program Committee: EuroPar'26, ICPP'26, HPC/SCAsia'25, IPDPS'25, ICS'25, SC'24, CLUSTER'25, CLUSTER'24, PERMAVOST'24, ESSA'23, PDSW'23, CHEOPS'23, REX-IO'25, REX-IO'23
+- Program Committee: 
+    - 2026: EuroPar, ICPP, REX-IO
+    - 2025: CLUSTER, HPC/SCAsia, IPDPS, ICS, REX-IO
+    - 2024: SC, CLUSTER, PERMAVOST, 
+    - 2023: ESSA, PDSW, CHEOPS, REX-IO
 - Journal Reviewer Board: IEEE TPDS 2024-present

@@ -20,9 +20,10 @@ My research interests include high-performance computing, storage system, system
 
 ### Teaching
 
-NTU Undergrads: We’ve just relaunched the Parallel Computing course (SC4050). If you’re interested in high-performance computing (such as OpenMP, MPI, parallel file systems), consider enrolling.
+I teach two undergraduate courses each year: SC4050 Parallel Computing in Semester 1 and SC4064 GPU Programming in Semester 2.
 
-In addition, I will be offering a new GPU-focused course (SC4064) starting in Spring 2026. This course will cover fundamental GPU architecture and programming concepts, along with emerging topics such as sparse tensor cores, container-based AI deployment, heterogeneous computing, and more.
+SC4050 Parallel Computing covers high-performance computing (HPC) topics, including OpenMP, MPI, and parallel file systems. SC4064 is a GPU-focused course that I introduced in 2026. It covers fundamental GPU architecture and programming concepts, along with emerging topics such as sparse tensor cores, container-based AI deployment, and heterogeneous computing.
+
 
 ---
 
@@ -51,13 +52,15 @@ I am actively looking for self-motivated students. If you're interested in worki
 ## Service (recent):
 - General Chair: 
     - CLUSTER'28 (will host it in Singapore!)
+    - SSDBM'27 (will host it in Singapore!)
     - ESSA'26
 - Program Chair: ESSA'25
 - Publicity Chair: SSDBM'25, ESSA'24
 - Workshop Review Committee: ISC'25
 - Program Committee: 
-    - 2026: EuroPar, ICPP, REX-IO
+    - 2026: EuroPar, ICPP, REX-IO, ICS
     - 2025: CLUSTER, HPC/SCAsia, IPDPS, ICS, REX-IO
     - 2024: SC, CLUSTER, PERMAVOST, 
     - 2023: ESSA, PDSW, CHEOPS, REX-IO
 - Journal Reviewer Board: IEEE TPDS 2024-present
+- Journal Reviewer: Parallel Computing, ACM TECS, ACM TOS

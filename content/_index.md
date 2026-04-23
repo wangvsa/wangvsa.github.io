@@ -53,12 +53,12 @@ I am actively looking for self-motivated students. If you're interested in worki
 - General Chair: 
     - CLUSTER'28 (will host it in Singapore!)
     - SSDBM'27 (will host it in Singapore!)
-    - ESSA'26
+    - ESSA'26 (colocated with IPDPS'26)
 - Program Chair: ESSA'25
 - Publicity Chair: SSDBM'25, ESSA'24
 - Workshop Review Committee: ISC'25
 - Program Committee: 
-    - 2026: EuroPar, ICPP, REX-IO, ICS
+    - 2026: EuroPar, CLUSTER, ICPP, ICS, SSDBM, REX-IO, PERMAVOST
     - 2025: CLUSTER, HPC/SCAsia, IPDPS, ICS, REX-IO
     - 2024: SC, CLUSTER, PERMAVOST, 
     - 2023: ESSA, PDSW, CHEOPS, REX-IO

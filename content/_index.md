@@ -58,7 +58,7 @@ I am actively looking for self-motivated students. If you're interested in worki
 - Publicity Chair: SSDBM'25, ESSA'24
 - Workshop Review Committee: ISC'25
 - Program Committee: 
-    - 2026: EuroPar, CLUSTER, ICPP, ICS, SSDBM, REX-IO, PERMAVOST
+    - 2026: EuroPar, CLUSTER, HPDC, ICPP, ICS, SYSTOR, SSDBM, REX-IO, PERMAVOST
     - 2025: CLUSTER, HPC/SCAsia, IPDPS, ICS, REX-IO
     - 2024: SC, CLUSTER, PERMAVOST, 
     - 2023: ESSA, PDSW, CHEOPS, REX-IO

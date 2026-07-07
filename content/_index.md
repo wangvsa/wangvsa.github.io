@@ -14,7 +14,9 @@ I am an Assistant Professor in the College of Computing and Data Science ([CCDS]
 Before joining NTU, I was the [Fernbach Postdoctoral Fellow](https://computing.llnl.gov/about/people-highlights/chen-wang) at the Center for Applied Scientific Computing ([CASC](https://computing.llnl.gov/casc)) at Lawrence Livermore National Laboratory, where I worked with [Dr. Kathryn Mohror](https://people.llnl.gov/mohror1).
 I completed my Ph.D. in Computer Science at the University of Illinois Urbana-Champaign, under the guidance of [Prof. Marc Snir](https://snir.cs.illinois.edu). Fun fact: I have an [Erdős number](http://wwwp.oakland.edu/enp/) of 3 through Marc :).
 
-My research interests include high-performance computing, storage system, system for AI/LLM, parallel file system, performance analysis, etc. During my Ph.D. and postdoctoral research, I have extensively studied performance issues related to POSIX consistency and explored the design of next-generation high-performance storage systems. Many of the [projects](/projects) I have been involved in are centered around these areas.
+My research interests include high-performance computing, storage system, system for AI/LLM, parallel file system, performance analysis, etc. During my Ph.D. and postdoctoral research, I have extensively studied performance issues related to POSIX consistency and explored the design of next-generation high-performance storage systems. Many of the [projects](https://psl-ntu.github.io/research) I have been involved in are centered around these areas.
+
+I lead the **[Parallel Systems Lab (PSL)](https://psl-ntu.github.io/)** at NTU, where we build systems infrastructure at the intersection of parallel computing and AI. Visit the [lab website](https://psl-ntu.github.io/) for our research, publications, etc.
 
 ---
 
@@ -24,30 +26,8 @@ I teach two undergraduate courses each year: SC4050 Parallel Computing in Semest
 
 SC4050 Parallel Computing covers high-performance computing (HPC) topics, including OpenMP, MPI, and parallel file systems. SC4064 is a GPU-focused course that I introduced in 2026. It covers fundamental GPU architecture and programming concepts, along with emerging topics such as sparse tensor cores, container-based AI deployment, and heterogeneous computing.
 
-
 ---
 
-### Hiring
-
-I am actively looking for self-motivated students. If you're interested in working with me, please check out this [page](/hiring) for more details.
-
----
-
-### News!
-- Dec 2025 - I will be chairing the [ESSA'26 Workshop](https://sites.google.com/view/essa-2026/home) (Workshop on Extreme-Scale Storage and Analysis) held in conjunction with IPDPS in New Orleans, US. The submission site is now open (deadline: Jan. 23, 2026); please consider submitting your work. CFP is available [here](https://sites.google.com/view/essa-2026/cfp).
-- Dec 2025 - The UnifyFS and DYAD tutorial (Jan. 26, Osaka, Japan. SCA/HPCAsia'26) web is [alive](https://wangchen.io/unifyfs-dyad-tutorial). Looking forward to seeing you there!
-- Nov 2025 - Our PDC paper "Data Management in the Continuum: Cross-facility Object-based Data Transfers" received the Recognition Award at SBAC-PAD 2025! Find more about PDC [here](https://pdc.readthedocs.io).
-- Sep 2025 - I will give a keynote  talk at the [2026 HPC Users Symposium](https://www.nscc.sg/wp-content/uploads/2025/09/2025-HPC-Users-Symposium-Programme.pdf) orgnized by NSCC Singapore. Registration is free. Venue: Sep. 25, 2025, Orchard Hotel Singapore.
-- Aug 2025 - Our SmartIO paper is accpeted by [PDSW'25](https://www.pdsw.org) assoicated with SC.
-- Aug 2025 - Our [PDC](https://github.com/hpc-io/pdc) work is accpeted by [SBAC-PAD](https://sbac-pad2025.ufms.br).
-- Apr 2025 – Two short papers accepted by SSDBM'25! See you in Columbus, OH.
-- Apr 2025 – Recognized as a 2024 Outstanding Reviewer for the Future Generation Computer Systems (FGCS) Journal.
-- Mar 2025 – Awarded a **Director’s Discretionary Allocation**, granting 3,000 node hours on two GPU-based supercomputers at Argonne National Lab.
-- Feb 2025 – Our **[Dagstuhl Seminar](https://www.dagstuhl.de/en/seminars/dagstuhl-seminars)** proposal has been accepted! Titled *Storage Systems and I/O for Emerging Workloads on HPC Systems*, the seminar will take place at Schloss Dagstuhl in Wadern, Germany, from Jan 11 to 16, 2026. More details [here](https://www.dagstuhl.de/26032).
-- Feb 2025 – Our work on scaling E3SM across multiple flagship supercomputers has been shortlisted for the **CCGRID’25 [SCALE Challenge](https://site.uit.no/ccgrid2025/scale-challenge/)**. We will present in Tromso, Norway and compete for the grand prize.
-- Jan 2025 – Our paper on **verifying parallel I/O semantics adherence** has been accepted at IPDPS’25! The project (named VerifyIO) is publicly available [here](https://github.com/wangvsa/VerifyIO), along with reproducibility documentation. I will present in Milan, Italy. Additionally, I will co-organize the **[ESSA’25 workshop](https://sites.google.com/view/essa-2025/)** at IPDPS'25. See you there!
-
----
 
 ## Service (recent):
 - General Chair: 

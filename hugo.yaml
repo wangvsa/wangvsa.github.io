@@ -16,26 +16,22 @@ menu:
     - name: Home
       url: ""
       weight: 1
-    - name: Publications
-      url: "publications"
-      weight: 1
-    - name: Projects
-      url: "projects"
+    #- name: Publications
+    #  url: "publications"
+    #  weight: 2
+    #- name: Teaching
+    #  url: "teaching"
+    #  weight: 3
+    - name: Lab
+      url: "https://psl-ntu.github.io/"
       weight: 2
-    - name: Teaching
-      url: "teaching"
-      weight: 3
-    - name: Hiring
-      url: "hiring"
-      weight: 4
-    #- name: Blog
     #- name: Blog
     #  url: "blog/"
-    #  weight: 2
+    #  weight: 5
 
 params:
   description: "A website built through Hugo and blogdown."
-  footer: "&copy; Chen Wang. 2024. | [Github](https://github.com/wangvsa) | [Linkedin](https://www.linkedin.com/in/chenw5/) | [Google Scholar](https://scholar.google.com/citations?user=BtN6CZgAAAAJ&hl=en)"
+  footer: "&copy; Chen Wang. 2026. | [Github](https://github.com/wangvsa) | [Linkedin](https://www.linkedin.com/in/chenw5/) | [Google Scholar](https://scholar.google.com/citations?user=BtN6CZgAAAAJ&hl=en)"
 
 markup:
   highlight:

@@ -13,16 +13,16 @@ permalinks:
 
 menu:
   main:
-    - name: Home
-      url: ""
-      weight: 1
+    #- name: Home
+    #  url: ""
+    #  weight: 1
     #- name: Publications
     #  url: "publications"
     #  weight: 2
     #- name: Teaching
     #  url: "teaching"
     #  weight: 3
-    - name: Lab
+    - name: Parallel Systems Lab
       url: "https://psl-ntu.github.io/"
       weight: 2
     #- name: Blog

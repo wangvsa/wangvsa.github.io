@@ -16,7 +16,7 @@ I completed my Ph.D. in Computer Science at the University of Illinois Urbana-Ch
 
 My research interests include high-performance computing, storage system, system for AI/LLM, parallel file system, performance analysis, etc. During my Ph.D. and postdoctoral research, I have extensively studied performance issues related to POSIX consistency and explored the design of next-generation high-performance storage systems. Many of the [projects](https://psl-ntu.github.io/research) I have been involved in are centered around these areas.
 
-I lead the **[Parallel Systems Lab (PSL)](https://psl-ntu.github.io/)** at NTU, where we build systems infrastructure at the intersection of parallel computing and AI. Visit the [lab website](https://psl-ntu.github.io/) for our research, publications, etc.
+I lead the **[Parallel Systems Lab (PSL)](https://psl-ntu.github.io/)** at NTU, where we build systems infrastructure at the intersection of parallel computing and AI. Visit the lab website for our research, publications, etc.
 
 ---
 
@@ -34,6 +34,7 @@ SC4050 Parallel Computing covers high-performance computing (HPC) topics, includ
     - CLUSTER'28 (will host it in Singapore!)
     - SSDBM'27 (will host it in Singapore!)
     - ESSA'26 (colocated with IPDPS'26)
+- Tutorial Chair: SCAsia'27, ICPP'26
 - Program Chair: ESSA'25
 - Publicity Chair: SSDBM'25, ESSA'24
 - Workshop Review Committee: ISC'25

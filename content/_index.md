@@ -20,6 +20,11 @@ I lead the **[Parallel Systems Lab (PSL)](https://psl-ntu.github.io/)** at NTU, 
 
 ---
 
+### Hiring
+
+I am seeking highly motivated PhD students to join my research group. Scholarship and RA positions are available for the Spring and Fall 2027 intake. 
+If you are interested, please visit [https://psl-ntu.github.io/join](https://psl-ntu.github.io/join/) for more information.
+
 ### Teaching
 
 I teach two undergraduate courses each year: SC4050 Parallel Computing in Semester 1 and SC4064 GPU Programming in Semester 2.

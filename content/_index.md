@@ -39,14 +39,16 @@ SC4050 Parallel Computing covers high-performance computing (HPC) topics, includ
     - CLUSTER'28 (will host it in Singapore!)
     - SSDBM'27 (will host it in Singapore!)
     - ESSA'26 (colocated with IPDPS'26)
-- Tutorial Chair: SCAsia'27, ICPP'26
+- Tutorial Chair: ICPP'26
+- Workshop Chair: SCAsia'27
 - Program Chair: ESSA'25
 - Publicity Chair: SSDBM'25, ESSA'24
 - Workshop Review Committee: ISC'25
 - Program Committee: 
+    - 2027: IPDPS
     - 2026: EuroPar, CLUSTER, HPDC, ICPP, ICS, SYSTOR, SSDBM, REX-IO, PERMAVOST, PDSW
     - 2025: CLUSTER, HPC/SCAsia, IPDPS, ICS, REX-IO
     - 2024: SC, CLUSTER, PERMAVOST, 
     - 2023: ESSA, PDSW, CHEOPS, REX-IO
 - Journal Reviewer Board: IEEE TPDS 2024-present
-- Journal Reviewer: Parallel Computing, ACM TECS, ACM TOS
+- Journal Reviewer: Parallel Computing, ACM TECS, ACM TOS, ...

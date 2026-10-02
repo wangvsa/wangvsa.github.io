@@ -22,7 +22,7 @@ I lead the **[Parallel Systems Lab (PSL)](https://psl-ntu.github.io/)** at NTU, 
 
 ### Hiring
 
-I am seeking highly motivated PhD students to join my research group. Scholarship and RA positions are available for the Spring and Fall 2027 intake. 
+I am seeking highly motivated PhD students to join my research group. Scholarship and RA positions are available for the Fall 2027 intake. 
 If you are interested, please visit [https://psl-ntu.github.io/join](https://psl-ntu.github.io/join/) for more information.
 
 ### Teaching

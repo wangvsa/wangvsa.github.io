@@ -2,7 +2,9 @@
 # This title is used as the og:title on Hugo's internal
 # opengraph structured data template on the home page.
 # See https://ogp.me/ and https://gohugo.io/templates/internal#open-graph.
-title = "Home"
+title = "Chen Wang - Assistant Professor at NTU"
+# Old pages that were merged into the home page; redirect them here.
+aliases = ["/hiring/", "/publications/", "/teaching/"]
 layout = "single"
 +++
 

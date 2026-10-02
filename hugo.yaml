@@ -1,4 +1,4 @@
-baseurl: "https://wangvsa.github.io/"  # please update this to your actual URL
+baseurl: "https://wangchen.io/"
 languageCode: "en-us"
 title: "Chen Wang"
 theme: "hugo-xmin"
@@ -30,7 +30,7 @@ menu:
     #  weight: 5
 
 params:
-  description: "A website built through Hugo and blogdown."
+  description: "Chen Wang is an Assistant Professor in the College of Computing and Data Science at Nanyang Technological University (NTU), Singapore, working on high-performance computing, storage systems, and systems for AI."
   footer: "&copy; Chen Wang. 2026. | [Github](https://github.com/wangvsa) | [Linkedin](https://www.linkedin.com/in/chenw5/) | [Google Scholar](https://scholar.google.com/citations?user=BtN6CZgAAAAJ&hl=en)"
 
 markup:

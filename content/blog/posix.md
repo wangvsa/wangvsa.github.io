@@ -1,6 +1,7 @@
 +++
 title = "Posix"
 date = "2024-12-15T21:01:59-08:00"
+draft = true
 
 #
 # description is optional
